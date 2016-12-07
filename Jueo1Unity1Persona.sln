@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{8C84C757-18F6-489D-9A8A-D468FF2D77A4}") = "Jueo1Unity1Persona", "Assembly-CSharp-firstpass.csproj", "{44F21987-1AB3-B147-2484-23CA672D79DF}"
+EndProject
+Project("{8C84C757-18F6-489D-9A8A-D468FF2D77A4}") = "Jueo1Unity1Persona", "Assembly-CSharp-Editor-firstpass.csproj", "{DA1FD586-427B-1135-895A-8921849E0514}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{44F21987-1AB3-B147-2484-23CA672D79DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F21987-1AB3-B147-2484-23CA672D79DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F21987-1AB3-B147-2484-23CA672D79DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F21987-1AB3-B147-2484-23CA672D79DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1FD586-427B-1135-895A-8921849E0514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1FD586-427B-1135-895A-8921849E0514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1FD586-427B-1135-895A-8921849E0514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1FD586-427B-1135-895A-8921849E0514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
